@@ -1,0 +1,42 @@
+.btn-add-cordinate {
+    position: absolute;
+    top: 80px;
+    left: 40px;
+    /* background-color: aqua; */
+}
+
+.coordinates {
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    position: absolute;
+    bottom: 40px;
+    left: 10px;
+    padding: 5px 10px;
+    margin: 0;
+    font-size: 11px;
+    line-height: 18px;
+    border-radius: 3px;
+    display: none;
+}
+
+.input-group-text {
+    background: none;
+    border-right: none;
+}
+.form-login {
+    border-left: none;
+}
+.container-login {
+    border-radius: 15px;
+}
+
+.bg-login {
+    height: 100vh;
+    overflow: hidden;
+    background-image: url("/img/bg-login.jpg");
+    background-repeat: no-repeat;
+}
+
+.pack-login {
+    margin-top: 5%;
+}
